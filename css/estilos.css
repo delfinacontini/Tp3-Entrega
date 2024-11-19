@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Geist:wght@100..900&family=Open+Sans:ital@0;1&display=swap');
+
+body {
+
+    background-color: whitesmoke;
+    color: rgb(66, 66, 72);
+    font-family: "Open Sans", sans-serif;
+}
+
+h1, h2, h3, nav {
+    font-family: "Geist", sans-serif;
+    font-weight: 400;
+}
+
+
+
+footer {
+    height: 100px;
+    width: 100%;
+}
